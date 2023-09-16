@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######`
+Flask
+Jinja2
+requests
+gunicorn
+python-dotenv
+prettytable
+pandas
+###### Requirements with Version Specifiers ######`
