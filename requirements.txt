@@ -1,9 +1,10 @@
 ###### Requirements without Version Specifiers ######`
 Flask
+flask_restful
+werkzeug.exceptions
 Jinja2
-requests
 gunicorn
 python-dotenv
 prettytable
-pandas
+psycopg2
 ###### Requirements with Version Specifiers ######`
